@@ -4,7 +4,7 @@
 
 <h1>Bem-vindo ao meu perfil Git!</h1>
 
-- 📖 Estudante Unisul
+- 📖 Estudante Unisul PB
 - 🐍 Estudando Python
 - 📫 Email para contato: marcusfilipi.ventura@outlook.com
 
@@ -23,8 +23,6 @@
 </div>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusLehmkuhl&theme=transparent&layout=compact)
-
 
 <div> 
   <a href="https://www.instagram.com/marcus_lehmkuhl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
