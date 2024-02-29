@@ -1,9 +1,14 @@
-### Seja muito bem-vindo ao meu perfil! Fique à vontade para explorar, contribuir e compartilhar suas ideias.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcus+Lehmkuhl;Eu+Tenho+21+anos+de+idade;Eu+sou+de+Florianópolis,+SC,+Brasil)
+
+<h1>Bem-vindo ao meu perfil Git!</h1>
+
 - 📖 Estudante Unisul
 - 🐍 Estudando Python
 - 📫 Email para contato: marcusfilipi.ventura@outlook.com
 
-##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
