@@ -5,7 +5,7 @@
 <h1>Bem-vindo ao meu perfil Git!</h1>
 
 - 📖 Estudante de Sistemas de informação na Unisul PB
-- 🤓 Estudante e entusiasta
+- 🤓 Estudante e entusiasta Tech
 - 📫 Email para contato: marcusfilipi.ventura@outlook.com
 
 
